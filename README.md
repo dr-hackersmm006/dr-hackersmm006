@@ -1,40 +1,24 @@
 <div align="center">
 
-<img width="2048" height="768" alt="ChatGPT Image Sep 20, 2026, 07_49_04 PM" src="https://github.com/user-attachments/assets/fce3e7c7-0f70-464a-a488-f76eedaec53c" />
-
-
-</br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=dr-hackersmm006&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26amp%3B%20Ethical%20Hacking%20Student%20%7C%20C%20Programmer%20%7C%20Web%20Security&descAlignY=55&descSize=18" width="100%"/>
 
 <h1>S A G N I K  &nbsp; M R I D H A</h1>
 
-<h3>Cybersecurity & Ethical Hacking Student</h3>
+<h3>Computer Science and Engineering Student</h3>
 
 <img
   src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=7DD3FC&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+SECURITY+PROFILE...;%3E+C+PROGRAMMING+%5BSTRONG%5D;%3E+WEB+SECURITY+%7C+VAPT+%7C+RECON;%3E+BUILDING+WEBSEC-TOOLKIT...;%3E+SYSTEM+READY_"
   alt="Cybersecurity terminal animation"
 />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Ethical+Hacking;Strong+in+C+%7C+Learning+Python;Web+Security+%7C+VAPT+%7C+Bug+Bounty;Building+%C2%B7+Breaking+%C2%B7+Learning" alt="Typing SVG" />
+
+</br>
 
 <img src="https://komarev.com/ghpvc/?username=dr-hackersmm006&label=PROFILE+VIEWS&color=7dd3fc&style=for-the-badge">
 
 <img src="https://img.shields.io/github/followers/dr-hackersmm006?label=FOLLOWERS&style=for-the-badge&color=7dd3fc">
 
-</div>
-
-### Cybersecurity & Ethical Hacking Student · C Programmer · Web Security Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Ethical+Hacking;Strong+in+C+%7C+Learning+Python;Web+Security+%7C+VAPT+%7C+Bug+Bounty;Building+%C2%B7+Breaking+%C2%B7+Learning" alt="Typing SVG" />
-
-<br>
-
-<a href="https://github.com/dr-hackersmm006">
-<img src="https://komarev.com/ghpvc/?username=dr-hackersmm006&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views">
-</a>
-
-<a href="https://github.com/dr-hackersmm006?tab=followers">
-<img src="https://img.shields.io/github/followers/dr-hackersmm006?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="Followers">
-</a>
 
 </div>
 
@@ -43,9 +27,9 @@
 
 ## 🧑‍💻 Who I Am
 
-```ts
+``` ts
 const sagnik = {
-  title: "Cybersecurity & Ethical Hacking Student",
+  title: "CSE Student",
 
   stack: {
     languages: ["C (Strong)", "Python", "JavaScript", "PHP"],
