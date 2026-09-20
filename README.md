@@ -6,7 +6,22 @@
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Sagnik%20Mridha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Ethical%20Hacking%20Student&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/dr-hackersmm006">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Ethical+Hacking+Student;Strong+in+C+Programming;Web+Security+%7C+VAPT+%7C+Reconnaissance;Building+WebSec-Toolkit+%F0%9F%94%90;Learning+Python+%26+Web+Security" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dr-hackersmm006&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/dr-hackersmm006?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+
+</div>
+
+<br/>
 
 </div>
 
