@@ -113,14 +113,16 @@ The GitHub repository card and Code link will be added once the repository is cr
 <a href="https://github.com/dr-hackersmm006?tab=repositories">
   <img src="https://img.shields.io/github/repos/dr-hackersmm006?label=Public%20Repositories&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Public Repositories"/>
 </a>
+</br>
 <a href="https://github.com/dr-hackersmm006">
   <img src="https://img.shields.io/github/commit-activity/y/dr-hackersmm006?label=Commit%20Activity&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Commit Activity"/>
 </a>
+</br>
 <a href="https://github.com/dr-hackersmm006">
   <img src="https://img.shields.io/github/last-commit/dr-hackersmm006/dr-hackersmm006?label=Last%20Profile%20Update&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Last Profile Update"/>
 </a>
 
-<br/><br/>
+</br>
 
 <img src="https://streak-stats.demolab.com?user=dr-hackersmm006&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
