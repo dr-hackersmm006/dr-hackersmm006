@@ -148,7 +148,7 @@ The GitHub repository card and Code link will be added once the repository is cr
   <img src="https://img.shields.io/github/commit-activity/m/dr-hackersmm006?label=Recent%20Commit%20Activity&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="Recent Commit Activity"/>
 </a>
 
-<br/><br/>
+</br>
 
 <a href="https://github.com/dr-hackersmm006?tab=overview">View GitHub contribution activity</a>
 
