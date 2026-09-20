@@ -56,9 +56,9 @@ The GitHub repository card and Code link will be added once the repository is cr
 
 | Layer | Technology |
 |---|---|
-| Language | Python |
+| Language | Python, C, PHP, JAVASCRIPT |
 | Security | Web security, reconnaissance, vulnerability assessment |
-| Environment | Kali Linux |
+| Environment | Windows, Kali Linux |
 | Development | Git, GitHub, VS Code |
 
 ---
